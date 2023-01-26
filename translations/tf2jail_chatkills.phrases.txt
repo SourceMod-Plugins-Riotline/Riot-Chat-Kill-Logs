@@ -4,36 +4,43 @@
 	{
 		"en"		"{crimson}[TF2Jail Kills] "
 		"ru"		"{crimson}[TF2Jail Kills] "
+		"pt"		"{crimson}[Mortes do TF2Jail] "
 	}
 	"OnDeath_Messages"
 	{
 		"#format"	"{1:s},{2:s},{3:s},{4:s}"
 		"en"		"{1} {default}{2} killed {3} {default}{4}"
 		"ru"		"{1} {default}{2} Убил {3} {default}{4}"
+		"pt"		"O {1} {default}{2} matou o {3} {default}{4}."
 	}
 	"Role_Warden"
 	{
 		"en"		"{fullblue}WARDEN"
 		"ru"		"{fullblue}смотритель"
+		"pt"		"{fullblue}diretor"
 	}
 	"Role_Guard"
 	{
 		"en"		"{royalblue}GUARD"
 		"ru"		"{royalblue}охранник"
+		"pt"		"{royalblue}guarda"
 	}
 	"Role_Rebel"
 	{
 		"en"		"{axis}REBEL"
 		"ru"		"{axis}бунтарь"
+		"pt"		"{axis}rebelde"
 	}
 	"Role_Freeday"
 	{
 		"en"		"{arcana}FREEDAY"
 		"ru"		"{arcana}посетитель"
+		"pt"		"{arcana}dia livre"
 	}
 	"Role_Prisoner"
 	{
 		"en"		"{coral}NON-REBEL"
 		"ru"		"{coral}заключённый"
+		"pt"		"{coral}não rebelde"
 	}
 }
